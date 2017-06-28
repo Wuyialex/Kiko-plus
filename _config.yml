@@ -3,7 +3,7 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "wuyialex"
+name:               "Wuyialex의 자유주제"
 
 author:
   facebook:         mungue.lee.9
@@ -47,9 +47,9 @@ kramdown:
 nav:
   # - name:           "About"
   #   url:            "/about"
-  - name:           "Archive"
+  - name:           "전체"
     url:            "/archive"
-  - name:           "Tags"
+  - name:           "태그"
     url:            "/tags"
   - name:           "Github"
     url:            "https://github.com/Wuyialex"
