@@ -3,14 +3,14 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Kiko Plus"
+name:               "wuyialex"
 
 author:
-  facebook:         your-id
+  facebook:         cci45@naver.com
   youtubeUser:      your-id
   youtubeChannel:   your-id
   twitter:          your-id
-  github:           your-id
+  github:           wuyialex
   stackoverflow:    your-id
   quora:            your-id
   linkedin:         your-id
@@ -20,11 +20,11 @@ author:
   reddit:           your-id
   medium:           your-id
   tumblr:           your-id
-  email:            your-id@your-email.com
+  email:            cci45@naver.com
 
 copyright:
   year:             2017
-  name:             Kiko
+  name:             wuyialex
 
 # Google-analytics
 google-analytics:
@@ -55,14 +55,12 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About"
-    url:            "/about"
-  - name:           "Archive"
-    url:            "/archive"
-  - name:           "Tags"
-    url:            "/tags"
-  - name:           "Github"
-    url:            "https://github.com/AWEEKJ/Kiko-plus"
+  - name:           "차"
+    url:            "/cha"
+  - name:           "Javascript"
+    url:            "/javascript"
+  - name:           "여행"
+    url:            "/travle"
 
 # Sass
 sass:
