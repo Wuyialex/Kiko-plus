@@ -55,12 +55,15 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "차"
-    url:            "/cha"
-  - name:           "Javascript"
-    url:            "/javascript"
-  - name:           "여행"
-    url:            "/travle"
+  - name:           "About"
+    url:            "/about"
+  - name:           "Archive"
+    url:            "/archive"
+  - name:           "Tags"
+    url:            "/tags"
+  - name:           "Github"
+    url:            "https://github.com/AWEEKJ/Kiko-plus"
+
 
 # Sass
 sass:
